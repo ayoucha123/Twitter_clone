@@ -17,14 +17,9 @@ To learn how to lead an Ethereum project, end-to-end:
 ## Specs
 
 - Any user should be able to read all the tweets
-  - All the tweets should be ordered in a chronological order (either of 2 ways)
 - Any user should be able to write tweets
 - A user should be able to update a tweet he wrote
 - A user should be able to delete a tweet he wrote
-  - Deleting a tweet should NOT affect the access to the other tweets
-  - Deleting a tweet should NOT affect the order of the other tweets
-- Smart contract(s) should be deployed to Ropsten
-- Smart contract(s) should be tested with at least 80% line coverage
 
 ## Project Requirment/Setup
 
