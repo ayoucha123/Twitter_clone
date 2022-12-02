@@ -1,25 +1,5 @@
 ## Solidity Twitter Clone Dapp 
 
-<p align="center">
-    <a href="https://solidity-dapp-twitter-clone-eliasafara.netlify.app/" alt="Netlify" target="_blank">
-        <img src="https://api.netlify.com/api/v1/badges/e8f2e766-888b-4954-8500-1b647d84db99/deploy-status" /></a>
-    <a href="https://ethereum.org/en/" alt="Ethereum" target="_blank">
-        <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" /></a>
-    <a alt="LICENSE">
-        <img src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
-    <a href="https://github.com/EliasAfara/Solidity-Dapp-Twitter-Clone" target="_blank">
-        <img src="https://img.shields.io/github/repo-size/EliasAfara/Solidity-Dapp-Twitter-Clone"
-            alt="Github repo size"></a>
-    <a href="https://github.com/EliasAfara" target="_blank">
-        <img src="https://img.shields.io/github/followers/eliasafara?label=Follow&style=social"
-            alt="follow on Github"></a>
-    <a href="https://twitter.com/intent/follow?screen_name=thegrindev" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/thegrindev?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-</p>
-
-Decentralised light-twitter clone. Check [Demo](https://solidity-dapp-twitter-clone-eliasafara.netlify.app/)
-
 ## Development Steps
 
 - Development of a CRUD API in Solidity
@@ -108,16 +88,6 @@ copy the genereated contract address and paste it in the [config](https://github
 After deploying your smart contract, you can copy the generated contract address and check it out on [Rinkeby Etherscan](https://rinkeby.etherscan.io/).
 
 
-## A twitter clone built on web3 using :
-- Solidity 
-- Alchemy 
-- Hardhat 
-- Ethers.js 
-- React.js 
-
-## Users can : 
-- Add tweet 
-- Delete tweet 
 
 
 ![image](https://user-images.githubusercontent.com/54351909/160769519-f2ebbc99-afa2-4071-badd-9c28fbf9e17c.png)
