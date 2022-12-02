@@ -24,7 +24,7 @@ To learn how to lead an Ethereum project, end-to-end:
 ## Project Requirment/Setup
 
 1. You need to create a virtual wallet [Metamask](https://metamask.io/) account and select "Rinkeby Test Network", I recommend reading this [article](http://www.alchemy.com/overviews/rinkeby-testnet).
-2. To get testnet Ether (ETH) in order to test and troubleshoot our decentralized application, I recommend checking [Chainlink](https://faucets.chain.link/rinkeby) and [Rinkeby Faucet](https://rinkebyfaucet.com/).
+2. To get testnet Ether (ETH) in order to test and troubleshoot our decentralized application, I recommend checking [Rinkeby Faucet](https://rinkebyfaucet.com/).
 3. You have to create an account on [Alchemy](https://www.alchemy.com/) and generate an API key by creating an app. This will allow us to make requests to the Rinkeby Test Network. If you’re not familiar with testnets, check out [this guide](https://docs.alchemy.com/alchemy/guides/choosing-a-network#rinkeby). I also recommend going over this [Alchemy documentation](https://docs.alchemy.com/alchemy/tutorials/hello-world-smart-contract) as it explains every step throughly.
 4. After cloning the repo and creating your accounts and generating the API key, now you have to create a `.env` same as [.env.example](https://github.com/EliasAfara/Solidity-Dapp-Twitter-Clone/blob/master/server/.env.example) and fill in your keys.
 
@@ -36,8 +36,8 @@ Make sure you have installed [Git](https://git-scm.com/book/en/v2/Getting-Starte
 Then clone the repo, install dependencies and start the server by running all these commands:
 
 ```Bash
-git clone https://github.com/EliasAfara/Solidity-Dapp-Twitter-Clone.git
-cd Solidity-Dapp-Twitter-Clone/server
+git clone https://github.com/ayoucha123/Twitter_clone.git
+cd Twitter-Clone/server
 npm i
 cd ../client
 npm i
